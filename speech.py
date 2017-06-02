@@ -1,0 +1,15 @@
+from microbit import *
+import speech
+display.show(Image.HAPPY)
+sleep(2000)
+speech.say("Hello,Twitter")
+sleep(2000)
+display.show(Image.HEART)
+sleep(2000)
+speech.say("Hello,CSHARP",)
+sleep(2000)
+speech.say("Hello,FACEBOOK")
+sleep(2000)
+speech.say("Hello,I AM MICROBIT AND I CAN TALK")
+sleep(2000)
+speech.say("I LOVE YOU")
